@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "type": "WatchEvent",
+    "repo": {
+      "name": "octocat/hello-world",
+      "html_url": "https://github.com/octocat/hello-world",
+      "description": "My first repository on GitHub!",
+      "language": "JavaScript",
+      "stars": 150
+    },
+    "starred_at": "2026-09-07T10:15:00Z",
+    "user": {
+      "login": "alice"
+    }
+  },
+  {
+    "id": "2",
+    "type": "WatchEvent",
+    "repo": {
+      "name": "nodejs/node",
+      "html_url": "https://github.com/nodejs/node",
+      "description": "Node.js JavaScript runtime",
+      "language": "C++",
+      "stars": 110000
+    },
+    "starred_at": "2026-08-21T08:30:00Z",
+    "user": {
+      "login": "bob"
+    }
+  },
+  {
+    "id": "3",
+    "type": "WatchEvent",
+    "repo": {
+      "name": "mozilla/pdf.js",
+      "html_url": "https://github.com/mozilla/pdf.js",
+      "description": "PDF Reader in JavaScript",
+      "language": "TypeScript",
+      "stars": 35000
+    },
+    "starred_at": "2026-07-12T14:45:00Z",
+    "user": {
+      "login": "carol"
+    }
+  }
+]
